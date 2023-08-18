@@ -12,3 +12,10 @@
 - [Authy](https://authy.com/download/)
 - [clipy](https://clipy-app.com/)
 - [DeepL](https://www.deepl.com/ja/macos-app/)
+- [Homebrew](https://brew.sh/index_ja)
+  - brew
+    - [aswrap](https://github.com/fujiwara/aswrap)
+    - [nodebrew](https://formulae.brew.sh/formula/nodebrew)
+      - npm
+        - [awsp](https://github.com/johnnyopao/awsp)
+    - [python@3.8](https://formulae.brew.sh/formula/python@3.8#default)
