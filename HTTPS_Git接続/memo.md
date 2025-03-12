@@ -17,6 +17,8 @@ https://github.com/settings/tokens/new
 
 6. 「Generate token」で押下
 
+7. Contentsを選択
+
 ## Mac側設定
 1. 「キーチェーンアクセス」アプリを起動
 
